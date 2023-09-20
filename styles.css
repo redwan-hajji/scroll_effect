@@ -27,7 +27,7 @@ body{
 @media(max-width:467px){
 .container h1{
  font-size: 25px; 
-}
+}}
 .container .box{
  cursor: pointer;
  width: 300px;
